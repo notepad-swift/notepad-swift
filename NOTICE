@@ -1,0 +1,39 @@
+Notepad++ Swift
+================
+
+This project is a pure-Swift port of GPL-3.0 source code originally authored
+by upstream Notepad++ project contributors. The Swift translation is a
+derivative work that inherits the GPL-3.0 license. See LICENSE for the full
+license text.
+
+Upstream attribution
+--------------------
+
+Notepad++ (the application — PowerEditor)
+  Copyright (C) 2003-2026 Don Ho and Notepad++ contributors
+  https://github.com/notepad-plus-plus/notepad-plus-plus
+  Licensed under GPL-3.0.
+
+Scintilla (the editor engine)
+  Copyright (C) 1998-2026 Neil Hodgson
+  https://www.scintilla.org/
+  Original license: HPND (History Permission Notice and Disclaimer).
+  Used here as a reference for porting; the Swift reimplementation is
+  released under GPL-3.0 as part of this combined work.
+
+Lexilla (the lexers)
+  Copyright (C) 2019-2026 Lexilla contributors
+  https://www.scintilla.org/Lexilla.html
+  Original license: HPND.
+  Used here as a reference for porting; the Swift reimplementation is
+  released under GPL-3.0 as part of this combined work.
+
+This port
+---------
+
+The Swift translation, build system, and Mac-native chrome are
+Copyright (C) 2026 Notepad++ Swift contributors, also licensed under GPL-3.0.
+
+This project is not affiliated with the upstream Notepad++ project, the
+Scintilla project, or the Lexilla project. We thank the upstream authors and
+the wider Notepad++ community for the 20+ years of work this port is built on.
